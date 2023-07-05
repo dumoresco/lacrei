@@ -2,7 +2,7 @@ import { styled } from "styled-components";
 
 export const Container = styled.div`
   width: 100%;
-  height: calc(100vh - 300px);
+  height: calc(100vh - 200px);
   padding: 2rem 0rem;
 
   .container {
@@ -16,7 +16,7 @@ export const Container = styled.div`
       max-width: 50%;
       h1 {
         font-weight: bold;
-        font-size: 4rem;
+        font-size: 3rem;
       }
       p {
         font-size: 1.5rem;

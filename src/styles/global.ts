@@ -32,12 +32,14 @@ export default createGlobalStyle`
         list-style: none;
     }
 
+    
     .container{
         width: 100%;
         max-width: 1400px;
         margin: 0 auto;
         padding: 0 1rem;
     }
+  
 
     .link_active{
         color: #018762;
