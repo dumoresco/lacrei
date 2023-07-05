@@ -34,7 +34,11 @@ const HeroContent: React.FC<HeroContentProps> = ({
                   Pessoa Usuária
                 </Link>
               </button>
-              <button className="outline">Profissional</button>
+              <button className="outline">
+                <Link href="/pessoa-usuaria" passHref>
+                  Profissional
+                </Link>
+              </button>
             </div>
           )}
         </div>
