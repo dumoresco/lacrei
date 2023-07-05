@@ -4,6 +4,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <title>Lacrei</title>
+
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
